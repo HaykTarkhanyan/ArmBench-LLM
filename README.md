@@ -13,7 +13,7 @@ ArmBench-LLM enables thorough evaluation of language models across multiple Arme
 - vLLM optimization for faster inference
 - Ability to resume interrupted evaluations
 - Comprehensive scoring system
-- Submit your model results to the [ArmBench-LLM](https://huggingface.co/spaces/Metric-AI/ArmBench-LLM) leaderboard
+- Submit your model results to the [ArmBench-LLM](https://huggingface.co/spaces/Metric-AI/ArmBench-LLM-Legacy) leaderboard
 
 ## Getting Started
 
@@ -264,7 +264,7 @@ Similarly, you can customize text generation by adding parameters to the generat
 
 ## Leaderboard
 
-Check out the current leaderboard at [Metric-AI/ArmBench-LLM](https://huggingface.co/spaces/Metric-AI/ArmBench-LLM) to see how your model compares to others on Armenian language tasks.
+Check out the current leaderboard at [Metric-AI/ArmBench-LLM](https://huggingface.co/spaces/Metric-AI/ArmBench-LLM-Legacy) to see how your model compares to others on Armenian language tasks.
 
 ## Contributing
 
